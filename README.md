@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hello People! 👋
+### 🌱 About Me
+- 😄 I'm Visarut Phanmaisri (Korn) From Thailand
+- 👯 I love everyone and cocoa! ☕
 
 <!--
 **skaferun9/skaferun9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
